@@ -1,0 +1,196 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    background-color: #1D1D1B;
+}
+.navbar-nav.navbar-center { 
+    position: absolute; 
+    left: 80%; 
+    transform: translatex(-50%); 
+} 
+.navfondo{
+    background-color: #055F73;
+}
+.video{
+    padding: 50px;
+}
+.lema{
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+    text-align: center;
+    float: left;
+}
+.autobiografia{
+    width: 45%;
+    height: 50px;
+    float: left;
+    margin-top: 30px;
+    text-align: center;
+}
+.habilidades{
+    width: 45%;
+    height: 50px;
+    float: right;
+    margin-top: 30px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    color: white;
+    font-size: 18px;
+    text-align: justify;
+}
+.texto-autobiografia{
+    color: white;
+    font-size: 12px;
+    width: 45%;
+    height: 50px;
+    float: left;
+    margin-top: 30px;
+
+}
+.texto-habilidades{
+    color: white;
+    font-size: 10px;
+    width: 45%;
+    height: 50px;
+    float: right;
+    margin-top: 30px;
+}
+.blandas{
+    width: 45%;
+    height: 50px;
+    float: right;
+    margin-top: 100px;
+}
+.quehago{
+    width: 45%;
+    height: 50px;
+    float: left;
+    margin-top: 100px;
+}
+.imagen-quehago{
+    width: 45%;
+    height: 50px;
+}
+.texto-blandas{
+    color: white;
+    font-size: 10px;
+    width: 45%;
+    height: 50px;
+    float: right;
+    margin-top: 30px;
+}
+.slider{
+    margin-top: 20px;
+}
+.educacion{
+    width: 100%;
+    height: 50px;
+    margin-top: 100px;
+}
+.hobbies{
+    width: 100%;
+    height: 50px;
+    margin-top: 100px;
+}
+.imagen-hobbies{
+    width: 80%;
+    height: 40px;
+    float: center;
+}
+.autobiografia2{
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin-top: 100px;
+}
+.texto-autobiografia2{
+    color: white;
+    font-size: 12px;
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+}
+.perfil{
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin-top: 170px;
+    text-align: left;
+}
+.formacion{
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin-top: 170px;
+    text-align: center;
+}
+.Hobbies2{
+    width: 100%;
+    padding: 30px;
+}
+h3{
+    color: white;
+    width: 100%;
+    float: right;
+    font-size: 30px;
+}
+.quehago2{
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+    text-align: center;
+}
+.quehagoimagen{
+    width: 50%;
+    display:block;
+    margin:auto
+}
+.tecnicas{
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+    text-align: center;
+}
+.tecnicasimagen{
+    width: 50%;
+    display:block;
+    margin:auto
+}
+.habilidades-blandas{
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+    text-align: center;
+}
+.blandasimagen{
+    width: 50%;
+    display:block;
+    margin:auto 
+}
+.kiwi{
+    width: 100%;
+}
+.fotografias{
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+}
+.Fotos-imagen{
+    margin-top: 30px;
+}
+.ilustraciones{
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+}
+.ilustraciones-imagen{
+    margin-top: 30px;
+}
